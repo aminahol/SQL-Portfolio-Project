@@ -128,5 +128,5 @@ FROM
 WHERE
     ages = '60-69'; #485 observations in ages 60-69#
     
-    # the decrease in ages 80-89 is due to lesser amount of available data#
+    # the decrease in ages 80-89 is due to lesser amount of available data within this age range#
 
